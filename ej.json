@@ -1,0 +1,54 @@
+
+  "items" : [ {
+    "salableId" : 0,
+    "salableSha" : "16a93111f7",
+    "quantity" : 1,
+    "price" : 499.00,
+    "warrantyId" : null,
+    "warrantySha" : null,
+    "warrantyPrice" : null,
+    "discount" : null,
+    "calendarId" : null,
+    "calendarType" : null,
+    "wareHouseId" : 2000,
+    "shippingCost" : 0.00,
+    "stockStatus" : {
+      "status" : "OK",
+      "state" : "AVAIL",
+      "location" : "DEPOSIT"
+    },
+    "originWhId" : 2000
+  }, {
+    "salableId" : 0,
+    "salableSha" : "36971f3da2",
+    "quantity" : 1,
+    "price" : 9115.00,
+    "warrantyId" : null,
+    "warrantySha" : null,
+    "warrantyPrice" : null,
+    "discount" : null,
+    "calendarId" : null,
+    "calendarType" : null,
+    "wareHouseId" : 2000,
+    "shippingCost" : 0.00,
+    "stockStatus" : {
+      "status" : "OK",
+      "state" : "AVAIL",
+      "location" : "DEPOSIT"
+    },
+    "originWhId" : 2000
+  } ],
+ 
+ "items" : [ {
+     "salableId" : 519453,
+    "salableSha" : "16a93111f7",
+    "quantity" : 1,
+    "price" : 499.00,
+    "warrantyId" : null,
+    "warrantySha" : null,
+    "warrantyPrice" : null,
+    "discount" : null,
+    "calendarId" : null,
+    "calendarType" : null,
+    "wareHouseId" : null
+  } ]
